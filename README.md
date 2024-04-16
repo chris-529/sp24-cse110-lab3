@@ -1,2 +1,2 @@
-# Lab 2 - Starter
+# Lab 3 - CSS/Agile
 https://chris-529.github.io/Lab2/
