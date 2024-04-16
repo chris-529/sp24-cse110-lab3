@@ -13,6 +13,9 @@ This meeting is for the team to share progress on what they did yesterday, what 
 | Team member 1 | Fill in | Fill in | Fill in |
 | Team member 2 | Fill in | Fill in | Fill in | 
 | Team member 3 | Fill in | Fill in | Fill in |
+| Team member 4 | Fill in | Fill in | Fill in |
+| Team member 5 | Fill in | Fill in | Fill in | 
+| Team member 6 | Fill in | Fill in | Fill in |
 
 # Closing notes
 
