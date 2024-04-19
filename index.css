@@ -91,7 +91,7 @@ ul, ol {
 
 
 ul.attendanceList {
-    color:color-mix(srgb, #508dbe 25%, white);
+    color:color-mix(in lch, white 50%, black);
     font-size: 2vh;
 }
 
