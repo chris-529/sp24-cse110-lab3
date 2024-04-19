@@ -91,7 +91,7 @@ ul, ol {
 
 
 ul.attendanceList {
-    color:color-mix(in srgb, #508dbe 25%, white);
+    color:color-mix(srgb, #508dbe 25%, white);
     font-size: 2vh;
 }
 
@@ -159,7 +159,7 @@ details:has(p) {
 
 .title {
     justify-content: center;
-    grid-template-columns: 1!important;
+    grid-template-columns: 50vw!important;
 }
 
 
@@ -280,8 +280,7 @@ button:active {
 
 .roboto-condensed-normal {
     font-family: "Roboto Condensed", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 200;
     font-style: normal;
   }
   
